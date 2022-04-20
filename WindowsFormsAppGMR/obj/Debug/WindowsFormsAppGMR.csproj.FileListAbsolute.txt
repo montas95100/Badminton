@@ -1,0 +1,11 @@
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\bin\Debug\WindowsFormsAppGMR.exe.config
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\bin\Debug\WindowsFormsAppGMR.exe
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\bin\Debug\WindowsFormsAppGMR.pdb
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\obj\Debug\WindowsFormsAppGMR.FormMain.resources
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\obj\Debug\WindowsFormsAppGMR.FormInter.resources
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\obj\Debug\WindowsFormsAppGMR.FormInterList.resources
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\obj\Debug\WindowsFormsAppGMR.Properties.Resources.resources
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\obj\Debug\WindowsFormsAppGMR.csproj.GenerateResource.cache
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\obj\Debug\WindowsFormsAppGMR.csproj.CoreCompileInputs.cache
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\obj\Debug\WindowsFormsAppGMR.exe
+C:\Bac\WindowsFormsAppGMR\WindowsFormsAppGMR\WindowsFormsAppGMR\obj\Debug\WindowsFormsAppGMR.pdb
